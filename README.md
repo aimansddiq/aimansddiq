@@ -1,7 +1,7 @@
 # Hi there, I'm Aiman Siddiq, a Web Developer living in Malaysia!
 
 ## About Me
-- I'm 24 years old.
+- I'm 25 years old.
 - I code in Python, JavaScript, and PHP.
 - I have a few personal projects that I'm working on.
 - I'm passionate about exploring new technologies, especially AI.
