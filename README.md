@@ -17,6 +17,7 @@
 ## Projects
 - [Personal Website](https://qidds.ddns.net/) - In which I learn hosting my website, get a domain, deploy
 - [LsHope Mining Dashboard](https://qidds.ddns.net/lshope) - A deprecated project since mining is dead, used to be dashboard for mining in a group and show how many each of us earn
+- Personal Discord Music Bot (Private) - Cause all the other music bot are only reliable by subscribing their premium stuff, might as well just build my own
 
 ## Contact Me
 - Email: aimansddiq@gmail.com
